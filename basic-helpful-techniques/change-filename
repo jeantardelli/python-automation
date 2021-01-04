@@ -1,0 +1,5 @@
+for f in *.py;
+
+do mv ${f} ${f//'-'/'_'};
+
+done
