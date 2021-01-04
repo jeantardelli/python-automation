@@ -5,7 +5,7 @@
 
 Python Automation
 ===========================
-This repo contains Python code that automates common business tasks.
+This repo contains Python code that automates common business tasks. The code present in this repo is based on the [Python Automation Cookbook](https://github.com/PacktPublishing/Python-Automation-Cookbook-Second-Edition) book.
 
 Directories
 ===========
