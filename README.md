@@ -14,6 +14,10 @@ Directories
 
 This directory lay down some of the basic techniques that will be usefull for others automation recipes (e.g. Formatting, String Manipulations, Regex, etc).
 
+### [Automating Tasks Made Easy](automating-tasks-made-easy)
+
+This directory cover recipes that make automation easier (e.g. Preparing a task, Setting up a cron job, Capturing errors and problems, Sending Notification, etc.)
+
 License
 =======
 [The MIT License](LICENSE)
